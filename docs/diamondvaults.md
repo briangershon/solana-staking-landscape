@@ -6,10 +6,13 @@ Get started by joining their [Discord server](https://discord.gg/S4zk4k9j) to fi
 
 Twitter: https://twitter.com/DiamondVaults
 
+Features:
+
 - Support for multiple types of plans/campaigns -- standard (same rewards for all NFTs), attribute (different rewards based on NFT attributes), and multiple collections.
 - Flexibility by accepting list of tokens that can be rewarded per plan.
 - Each staking is its own contract, so even as plans/campaigns change, existing staking contracts honored for their time period.
 - Support multiple time periods, such as 7, 15, 30, 60 days. They offer auto-staking options, as well as early unstaking options.
+- Staked NFTs are removed from wallet.
 - Rewards are calculated daily
 - Rewards are paid through a balance of tokens in a wallet.
 - For "Total Value Locked" (TVL) calculation, they use Magic Eden to grab current market information.
