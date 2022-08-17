@@ -10,5 +10,5 @@ Solana NFT Staking Landscape
 ## Verification Services
 
 - Matrica Labs - Discord verification and role management
-- Solaland
+- SolaLand
 - MetaHelix
